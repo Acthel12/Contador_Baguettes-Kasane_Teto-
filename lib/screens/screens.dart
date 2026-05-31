@@ -1,0 +1,1 @@
+export 'package:contador_gabriel/screens/home_screen.dart';
