@@ -99,6 +99,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       Text(
                         "$value",
                         style: const TextStyle(
+                          fontFamily: 'PressStart2P',
                           color: ColorsUtils.purple,
                           fontSize: 50,
                         ),
