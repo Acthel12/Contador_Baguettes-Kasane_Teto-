@@ -148,7 +148,10 @@ class _HomeScreenState extends State<HomeScreen> {
                         ),
                       ),
                       const Spacer(),
-                      Image(image: AssetImage(bagget)),
+                      SizedBox(
+                        height: 200,
+                        width: 200,
+                        child: Image(image: AssetImage(bagget),fit: BoxFit.cover,)),
                       const Spacer(),
                       Row(
                         mainAxisAlignment: MainAxisAlignment.spaceEvenly,
