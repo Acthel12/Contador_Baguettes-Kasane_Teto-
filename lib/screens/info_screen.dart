@@ -73,7 +73,7 @@ class InfoScreen extends StatelessWidget {
                       ),
                       SizedBox(height: 10),
                       Text(
-                        "+58 4165963628",
+                        "+58-4165963628",
                         style: TextStyle(
                           fontFamily: 'PressStart2P',
                           color: ColorsUtils.purple,
