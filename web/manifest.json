@@ -1,6 +1,6 @@
 {
-    "name": "contador_gabriel",
-    "short_name": "contador_gabriel",
+    "name": "Contador de Baguettes",
+    "short_name": "Contador de Baguettes",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
